@@ -40,14 +40,6 @@ I’m a Salesforce Developer in the making, building my skills in Apex, JavaScri
 
 ---
 
-## 📈 GitHub Stats
-
-###
-
-<div align="center">
-  <img src=""  />
-</div>
-
 ###
 
 ---
