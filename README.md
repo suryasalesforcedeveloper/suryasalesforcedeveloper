@@ -40,10 +40,6 @@ I’m a Salesforce Developer in the making, building my skills in Apex, JavaScri
 
 ---
 
-###
-
----
-
 ## 📫 Contact Me
 
 - **Email:** surya.lightningcrm@gmail.com
