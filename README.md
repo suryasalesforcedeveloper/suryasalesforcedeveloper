@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 Welcome to my GitHub profile!
-I’m a Salesforce Developer in the making, building my skills in Apex, JavaScript, and Lightning Web Components (LWC). I’m passionate about learning, experimenting with new features, and creating projects that solve real-world problems. My focus is on understanding how Salesforce can optimize business processes and improve user experiences.
+I’m a Salesforce Developer, building my skills in Apex, JavaScript, and Lightning Web Components (LWC). I’m passionate about learning, experimenting with new features, and creating projects that solve real-world problems. My focus is on understanding how Salesforce can optimize business processes and improve user experiences.
 
 ---
 
