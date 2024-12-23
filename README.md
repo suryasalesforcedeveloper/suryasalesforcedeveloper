@@ -39,7 +39,7 @@ I’m a Salesforce Developer, building my skills in Apex, JavaScript, and Lightn
   - Salesforce Object Search Language (SOSL)
 
 ---
-## ✔Git Streak 
+## 📈Git Streak 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=suryasalesforcedeveloper&theme=dark&border_radius=5&mode=weekly&card_height=170" alt="GitHub Streak" /></a>
 
 ---
